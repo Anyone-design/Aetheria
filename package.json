@@ -1,0 +1,15 @@
+{
+  "name": "aetheria-planner",
+  "version": "1.0.0",
+  "description": "Aetheria Cyberpunk Command Center and Planner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
